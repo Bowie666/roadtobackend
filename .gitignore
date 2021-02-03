@@ -2,7 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+static/
 .idea
 .vscode
 
@@ -113,11 +113,11 @@ ENV/
 env.bak/
 venv.bak/
 
-# Spyder project settings
+# Spyder api settings
 .spyderproject
 .spyproject
 
-# Rope project settings
+# Rope api settings
 .ropeproject
 
 # mkdocs documentation
